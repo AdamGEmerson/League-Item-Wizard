@@ -1,0 +1,5 @@
+#Required pacakges for League Items Wizard
+
+requests
+bs4
+

@@ -42,7 +42,7 @@ def generate_builds(url):
 
 def generate_json(cdata, consumables=True):
 
-    for key, value in cdata.iteritems():
+    for key, value in cdata.items():
         name = value['name']
         key = value['key']
         champ_id = value['id']
